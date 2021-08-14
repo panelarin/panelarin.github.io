@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>panelarin</title>
+<title>파넬</title>
 </head>
-<body>nothing</body>
+<body>아무</body>
 </html>
