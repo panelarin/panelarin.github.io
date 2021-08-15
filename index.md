@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Panelarin's Blog
 
 You can use the [editor on GitHub](https://github.com/panelarin/panelarin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
